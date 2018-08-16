@@ -429,6 +429,8 @@ key_bindings:
   - { key: Slash,      mods:  Alt,       chars:  "\x1bz"          } # Z
   - { key: E,          mods:  Alt,       chars:  "\x1b."          }
   - { key: W,          mods:  Alt,       chars:  "\x1b,"          }
+  - { key: Q,          mods:  Alt,       chars:  "\x1b'"          }
+  - { key: Q,          mods:  Alt|Shift, chars:  "\x1b\""         }
   - { key: Apostrophe, mods:  Alt,       chars:  "\x1b-"          }
   - { key: Apostrophe, mods:  Alt|Shift, chars:  "\x1b_"          }
   - { key: Minus,      mods:  Alt,       chars:  "\x1b["          }
